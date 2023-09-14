@@ -76,3 +76,8 @@ footer {
 hr {
   border: 1px solid black;
 }
+.flexcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
