@@ -33,7 +33,7 @@ article {
 }
 
 article div {
-  text-align: center;
+  /* text-align: center; */
   width: 100%;
 }
 
@@ -78,6 +78,15 @@ hr {
 }
 .flexcontainer {
   display: flex;
+}
+.align-justify {
+  
   align-items: center;
   justify-content: center;
+}
+
+#portfolio {
+display: flex;
+
+
 }
