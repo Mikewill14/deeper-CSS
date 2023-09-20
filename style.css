@@ -87,6 +87,11 @@ hr {
 
 #portfolio {
 display: flex;
+gap: 20px;
+
+}
+#portfolio section {
 
 
+  width: 33.3%;
 }
